@@ -1,2 +1,3 @@
 sunpy[all]
 sunpy-soar
+sunraster
