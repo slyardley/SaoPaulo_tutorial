@@ -2,5 +2,5 @@ sunpy[all]
 sunpy-soar
 sunraster
 pyspedas
-sunkit-magex
+pfsspy
 heliopy
