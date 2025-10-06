@@ -3,3 +3,4 @@ sunpy-soar
 sunraster
 pyspedas
 sunkit-magex
+heliopy
