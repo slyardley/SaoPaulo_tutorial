@@ -4,4 +4,4 @@ sunraster
 pyspedas
 pfsspy
 streamtracer
-heliopy
+heliopy===0.15.4
