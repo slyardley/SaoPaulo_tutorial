@@ -3,4 +3,4 @@ sunpy-soar
 sunraster
 pyspedas
 pfsspy
-heliopy
+streamtracer
